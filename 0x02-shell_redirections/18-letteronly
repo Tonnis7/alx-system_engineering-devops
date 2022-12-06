@@ -1,0 +1,2 @@
+#!/bin/nash
+egrep ^[[:alpha:]]/etc/ ssh/ sshd_config
